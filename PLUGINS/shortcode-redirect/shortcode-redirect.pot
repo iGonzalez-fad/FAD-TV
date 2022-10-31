@@ -1,0 +1,40 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShortCode Redirect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-28 02:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: shortcode-redirect"
+
+#. Author of the plugin
+msgid "Cartpauj"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://cartpauj.icomnow.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://cartpauj.icomnow.com/projects/shortcode-redirect-plugin/"
+msgstr ""
+
+#. Name of the plugin
+msgid "ShortCode Redirect"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin allows you to add a shortcode to a page. When this shortcode is "
+"executed it re-directs the user to a pre-defined URL. You can also set how "
+"many seconds to wait before redirecting the user."
+msgstr ""

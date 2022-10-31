@@ -1,0 +1,26 @@
+a:4:{s:8:"template";s:17:"vayvo-progression";s:4:"mods";a:7:{i:0;b:0;s:18:"nav_menu_locations";a:6:{s:27:"progression-studios-primary";i:2;s:35:"progression-studios-header-top-left";i:0;s:36:"progression-studios-header-top-right";i:0;s:32:"progression-studios-profile-menu";i:19;s:32:"progression-studios-landing-page";i:20;s:31:"progression-studios-mobile-menu";i:0;}s:18:"custom_css_post_id";i:235;s:38:"progression_studios_logo_link_override";s:48:"https://vayvo.progressionstudios.com/home-video/";s:44:"progression_studios_footer_elementor_library";s:2:"54";s:39:"progression_studios_page_title_bg_image";s:78:"https://vayvo.progressionstudios.com/wp-content/uploads/2019/10/page-title.jpg";s:37:"progression_studios_landing_nav_align";s:29:"progression-studios-nav-right";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:504:".arm_field_file_display .armFileRemoveContainer {color:#ffffff !important;}
+
+.progression-own-theme .owl-nav button:focus {
+	 outline: none;
+}
+
+
+a.arm_paid_post_buy_now_btn {
+	line-height:1;
+	border:none;
+	text-align:center;
+	display:inline-block;
+	border-radius:60px;
+	width:auto;
+	padding:16px 35px;
+	color:#ffffff;
+	background:#22b2ee;
+	font-size:15px;
+	font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 500;
+}
+
+a.arm_paid_post_buy_now_btn:hover {
+	color:#ffffff;
+	background:#0b78a2;
+}";}

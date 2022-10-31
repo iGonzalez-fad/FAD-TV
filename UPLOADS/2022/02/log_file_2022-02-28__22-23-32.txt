@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Vayvo were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = http://fadmoodle.unam.mx/fadtv
+Data file = /var/www/html/fadtv/wp-content/themes/vayvo-progression//inc/demo/content.xml
+Widget file = /var/www/html/fadtv/wp-content/themes/vayvo-progression//inc/demo/widgets.wie
+Customizer file = /var/www/html/fadtv/wp-content/themes/vayvo-progression//inc/demo/theme_options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

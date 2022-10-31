@@ -1,0 +1,1513 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Progression Theme Elements - Vayvo\n"
+"POT-Creation-Date: 2021-09-09 15:45-0700\n"
+"PO-Revision-Date: 2021-09-09 15:45-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: progression-elements.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: elements/carousel-element.php:15
+msgid "Carousel - Vayvo"
+msgstr ""
+
+#: elements/carousel-element.php:42
+msgid "Carousel Settings"
+msgstr ""
+
+#: elements/carousel-element.php:49 elements/post-element.php:48
+msgid "Section Heading"
+msgstr ""
+
+#: elements/carousel-element.php:57 elements/post-element.php:56
+msgid "Section Sub-Heading"
+msgstr ""
+
+#: elements/carousel-element.php:65 elements/post-element.php:64
+#: elements/slider-element.php:184
+msgid "Post Count"
+msgstr ""
+
+#: elements/carousel-element.php:74
+msgid "Columns Desktop"
+msgstr ""
+
+#: elements/carousel-element.php:84
+msgid "Columns Tablet"
+msgstr ""
+
+#: elements/carousel-element.php:94
+msgid "Columns Mobile"
+msgstr ""
+
+#: elements/carousel-element.php:105 elements/carousel-element.php:741
+#: elements/post-element.php:98 elements/post-element.php:708
+msgid "Margin"
+msgstr ""
+
+#: elements/carousel-element.php:118 elements/slider-element.php:115
+msgid "Autoplay"
+msgstr ""
+
+#: elements/carousel-element.php:126
+msgid "Autoplay Duration"
+msgstr ""
+
+#: elements/carousel-element.php:139
+msgid "Slide by"
+msgstr ""
+
+#: elements/carousel-element.php:150
+msgid "Loop Carousel"
+msgstr ""
+
+#: elements/carousel-element.php:161
+msgid "Carousel Arrows"
+msgstr ""
+
+#: elements/carousel-element.php:172
+msgid "Always Display Arrows"
+msgstr ""
+
+#: elements/carousel-element.php:185
+msgid "Carousel Dots"
+msgstr ""
+
+#: elements/carousel-element.php:199 elements/post-element.php:166
+#: elements/slider-element.php:289
+msgid "Post Layout"
+msgstr ""
+
+#: elements/carousel-element.php:209 elements/post-element.php:176
+msgid "Display Rating"
+msgstr ""
+
+#: elements/carousel-element.php:221 elements/post-element.php:188
+msgid "Display Video Genres"
+msgstr ""
+
+#: elements/carousel-element.php:231 elements/post-element.php:198
+msgid "Display Video Categories"
+msgstr ""
+
+#: elements/carousel-element.php:239 elements/post-element.php:206
+msgid "Display Video Types"
+msgstr ""
+
+#: elements/carousel-element.php:254 elements/post-element.php:221
+msgid "Post Query"
+msgstr ""
+
+#: elements/carousel-element.php:262 elements/post-element.php:229
+#: elements/slider-element.php:194
+msgid "Narrow by Filtering Types"
+msgstr ""
+
+#: elements/carousel-element.php:263 elements/post-element.php:230
+#: elements/slider-element.php:195
+msgid "Choose a filtering type to display posts"
+msgstr ""
+
+#: elements/carousel-element.php:275 elements/post-element.php:242
+#: elements/slider-element.php:207
+msgid "Narrow by Genres"
+msgstr ""
+
+#: elements/carousel-element.php:276 elements/post-element.php:243
+#: elements/slider-element.php:208
+msgid "Choose a genre to display posts"
+msgstr ""
+
+#: elements/carousel-element.php:287 elements/post-element.php:254
+#: elements/slider-element.php:219
+msgid "Narrow by Category"
+msgstr ""
+
+#: elements/carousel-element.php:288 elements/post-element.php:255
+#: elements/slider-element.php:220
+msgid "Choose a category to display posts"
+msgstr ""
+
+#: elements/carousel-element.php:305 elements/post-element.php:272
+#: elements/slider-element.php:236
+msgid "Order By"
+msgstr ""
+
+#: elements/carousel-element.php:309 elements/post-element.php:276
+#: elements/slider-element.php:240
+msgid "Default - Date"
+msgstr ""
+
+#: elements/carousel-element.php:310 elements/post-element.php:277
+#: elements/slider-element.php:241
+msgid "Post Title"
+msgstr ""
+
+#: elements/carousel-element.php:311 elements/post-element.php:278
+#: elements/slider-element.php:242
+msgid "Menu Order"
+msgstr ""
+
+#: elements/carousel-element.php:312 elements/post-element.php:279
+#: elements/slider-element.php:243
+msgid "Last Modified"
+msgstr ""
+
+#: elements/carousel-element.php:313 elements/post-element.php:280
+#: elements/slider-element.php:244
+msgid "Comment Count"
+msgstr ""
+
+#: elements/carousel-element.php:314 elements/post-element.php:281
+#: elements/slider-element.php:245
+msgid "Random"
+msgstr ""
+
+#: elements/carousel-element.php:323 elements/post-element.php:290
+#: elements/slider-element.php:254
+msgid "Order"
+msgstr ""
+
+#: elements/carousel-element.php:327 elements/post-element.php:294
+#: elements/slider-element.php:258
+msgid "Ascending"
+msgstr ""
+
+#: elements/carousel-element.php:328 elements/post-element.php:295
+#: elements/slider-element.php:259
+msgid "Descending"
+msgstr ""
+
+#: elements/carousel-element.php:336 elements/post-element.php:303
+#: elements/slider-element.php:267
+msgid "Offset Count"
+msgstr ""
+
+#: elements/carousel-element.php:339 elements/post-element.php:306
+#: elements/slider-element.php:270
+msgid "Use this to skip over posts (Example: 3 would skip the first 3 posts.)"
+msgstr ""
+
+#: elements/carousel-element.php:350 elements/post-element.php:317
+msgid "Post Sorting"
+msgstr ""
+
+#: elements/carousel-element.php:358 elements/post-element.php:325
+msgid "Video Sorting"
+msgstr ""
+
+#: elements/carousel-element.php:363 elements/post-element.php:330
+msgid "No Sorting"
+msgstr ""
+
+#: elements/carousel-element.php:364 elements/post-element.php:331
+msgid "Sort by Type"
+msgstr ""
+
+#: elements/carousel-element.php:365 elements/post-element.php:332
+msgid "Sort by Genre"
+msgstr ""
+
+#: elements/carousel-element.php:366 elements/post-element.php:333
+msgid "Sort by Category"
+msgstr ""
+
+#: elements/carousel-element.php:374 elements/post-element.php:341
+msgid "Sorting Text for \"All Posts\""
+msgstr ""
+
+#: elements/carousel-element.php:377 elements/post-element.php:344
+msgid "All"
+msgstr ""
+
+#: elements/carousel-element.php:391 elements/post-element.php:358
+#: elements/slider-element.php:413
+msgid "Main Styles"
+msgstr ""
+
+#: elements/carousel-element.php:401 elements/post-element.php:368
+msgid "Container Border Radius"
+msgstr ""
+
+#: elements/carousel-element.php:420 elements/post-element.php:387
+msgid "Container Padding"
+msgstr ""
+
+#: elements/carousel-element.php:444 elements/post-element.php:411
+msgid "Border Hover Color"
+msgstr ""
+
+#: elements/carousel-element.php:455 elements/post-element.php:422
+msgid "Rating Color"
+msgstr ""
+
+#: elements/carousel-element.php:467 elements/post-element.php:434
+msgid "Rating Fill Color"
+msgstr ""
+
+#: elements/carousel-element.php:483 elements/post-element.php:450
+msgid "Section Heading Styles"
+msgstr ""
+
+#: elements/carousel-element.php:492 elements/post-element.php:459
+msgid "Title"
+msgstr ""
+
+#: elements/carousel-element.php:502 elements/carousel-element.php:576
+#: elements/carousel-element.php:612 elements/carousel-element.php:666
+#: elements/carousel-element.php:767 elements/carousel-element.php:929
+#: elements/post-element.php:469 elements/post-element.php:543
+#: elements/post-element.php:579 elements/post-element.php:633
+#: elements/post-element.php:734 elements/post-element.php:896
+#: elements/slider-element.php:594 elements/slider-element.php:663
+#: elements/slider-element.php:756 elements/slider-element.php:821
+msgid "Typography"
+msgstr ""
+
+#: elements/carousel-element.php:511 elements/carousel-element.php:621
+#: elements/post-element.php:478 elements/post-element.php:588
+#: elements/slider-element.php:603
+msgid "Title Color"
+msgstr ""
+
+#: elements/carousel-element.php:523 elements/post-element.php:490
+msgid "Section Margin"
+msgstr ""
+
+#: elements/carousel-element.php:535 elements/carousel-element.php:898
+#: elements/post-element.php:502 elements/post-element.php:865
+msgid "Align"
+msgstr ""
+
+#: elements/carousel-element.php:540 elements/carousel-element.php:903
+#: elements/post-element.php:507 elements/post-element.php:870
+#: elements/slider-element.php:528
+msgid "Left"
+msgstr ""
+
+#: elements/carousel-element.php:544 elements/carousel-element.php:907
+#: elements/post-element.php:511 elements/post-element.php:874
+#: elements/slider-element.php:532
+msgid "Center"
+msgstr ""
+
+#: elements/carousel-element.php:548 elements/carousel-element.php:911
+#: elements/post-element.php:515 elements/post-element.php:878
+#: elements/slider-element.php:536
+msgid "Right"
+msgstr ""
+
+#: elements/carousel-element.php:565 elements/post-element.php:532
+msgid "Sub-Title"
+msgstr ""
+
+#: elements/carousel-element.php:585 elements/post-element.php:552
+msgid "Sub-Title Color"
+msgstr ""
+
+#: elements/carousel-element.php:602 elements/post-element.php:569
+#: elements/slider-element.php:584
+msgid "Title Styles"
+msgstr ""
+
+#: elements/carousel-element.php:633 elements/post-element.php:600
+#: elements/slider-element.php:627
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: elements/carousel-element.php:656 elements/post-element.php:623
+msgid "Meta Styles"
+msgstr ""
+
+#: elements/carousel-element.php:676 elements/post-element.php:643
+msgid "Meta Color"
+msgstr ""
+
+#: elements/carousel-element.php:687 elements/post-element.php:654
+msgid "Meta Margin Bottom"
+msgstr ""
+
+#: elements/carousel-element.php:708 elements/post-element.php:675
+msgid "Load More Styles"
+msgstr ""
+
+#: elements/carousel-element.php:725 elements/post-element.php:692
+msgid "Icon Spacing"
+msgstr ""
+
+#: elements/carousel-element.php:754 elements/post-element.php:721
+msgid "Padding"
+msgstr ""
+
+#: elements/carousel-element.php:778 elements/post-element.php:745
+#: elements/slider-element.php:832
+msgid "Normal"
+msgstr ""
+
+#: elements/carousel-element.php:783 elements/carousel-element.php:821
+#: elements/carousel-element.php:938 elements/post-element.php:750
+#: elements/post-element.php:788 elements/post-element.php:905
+#: elements/slider-element.php:837 elements/slider-element.php:872
+msgid "Text Color"
+msgstr ""
+
+#: elements/carousel-element.php:794 elements/carousel-element.php:832
+#: elements/post-element.php:761 elements/post-element.php:799
+#: elements/slider-element.php:848 elements/slider-element.php:883
+msgid "Background Color"
+msgstr ""
+
+#: elements/carousel-element.php:805 elements/carousel-element.php:843
+#: elements/post-element.php:772 elements/post-element.php:810
+msgid "Border Color"
+msgstr ""
+
+#: elements/carousel-element.php:816 elements/post-element.php:783
+#: elements/slider-element.php:867
+msgid "Hover"
+msgstr ""
+
+#: elements/carousel-element.php:861 elements/post-element.php:828
+msgid "Post Sorting Styles"
+msgstr ""
+
+#: elements/carousel-element.php:872 elements/post-element.php:839
+msgid "Sorting Container Margin"
+msgstr ""
+
+#: elements/carousel-element.php:884 elements/post-element.php:851
+msgid "Sorting List Padding"
+msgstr ""
+
+#: elements/carousel-element.php:951 elements/post-element.php:918
+msgid "Selected Text Color"
+msgstr ""
+
+#: elements/carousel-element.php:964 elements/post-element.php:931
+msgid "Selected Background Color"
+msgstr ""
+
+#: elements/post-element.php:15
+msgid "Video List - Vayvo"
+msgstr ""
+
+#: elements/post-element.php:41 inc/custom-meta.php:130
+msgid "Post Settings"
+msgstr ""
+
+#: elements/post-element.php:73
+msgid "Columns"
+msgstr ""
+
+#: elements/post-element.php:80
+msgid "1 Column"
+msgstr ""
+
+#: elements/post-element.php:81
+msgid "2 Column"
+msgstr ""
+
+#: elements/post-element.php:82
+msgid "3 Columns"
+msgstr ""
+
+#: elements/post-element.php:83
+msgid "4 Columns"
+msgstr ""
+
+#: elements/post-element.php:84
+msgid "5 Columns"
+msgstr ""
+
+#: elements/post-element.php:85
+msgid "6 Columns"
+msgstr ""
+
+#: elements/post-element.php:122
+msgid "Masonry Layout"
+msgstr ""
+
+#: elements/post-element.php:133
+msgid "Post Pagination"
+msgstr ""
+
+#: elements/post-element.php:137
+msgid "No Pagination"
+msgstr ""
+
+#: elements/post-element.php:138
+msgid "Default Pagination"
+msgstr ""
+
+#: elements/post-element.php:139
+msgid "Load More Posts"
+msgstr ""
+
+#: elements/post-element.php:140
+msgid "Inifinite Scroll"
+msgstr ""
+
+#: elements/post-element.php:148
+msgid "Load More Text"
+msgstr ""
+
+#: elements/post-element.php:1343
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: elements/post-element.php:1344
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: elements/slider-element.php:14
+msgid "Video Slider - Vayvo"
+msgstr ""
+
+#: elements/slider-element.php:42
+msgid "Slider Options"
+msgstr ""
+
+#: elements/slider-element.php:49
+msgid "Slider Height"
+msgstr ""
+
+#: elements/slider-element.php:75
+msgid "Slide Transition"
+msgstr ""
+
+#: elements/slider-element.php:79
+msgid "Fade"
+msgstr ""
+
+#: elements/slider-element.php:80
+msgid "Slide"
+msgstr ""
+
+#: elements/slider-element.php:88
+msgid "Transition Speed"
+msgstr ""
+
+#: elements/slider-element.php:97
+msgid "Text Animation"
+msgstr ""
+
+#: elements/slider-element.php:101
+msgid "No Animation"
+msgstr ""
+
+#: elements/slider-element.php:102
+msgid "Zoom In"
+msgstr ""
+
+#: elements/slider-element.php:103
+msgid "Zoom Out"
+msgstr ""
+
+#: elements/slider-element.php:104
+msgid "Fade Up"
+msgstr ""
+
+#: elements/slider-element.php:105
+msgid "Fade Down"
+msgstr ""
+
+#: elements/slider-element.php:106
+msgid "Fade Right"
+msgstr ""
+
+#: elements/slider-element.php:107
+msgid "Fade Left"
+msgstr ""
+
+#: elements/slider-element.php:124
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elements/slider-element.php:134
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/slider-element.php:143
+msgid "Slide Arrows"
+msgstr ""
+
+#: elements/slider-element.php:147 elements/slider-element.php:161
+msgid "Always Visible"
+msgstr ""
+
+#: elements/slider-element.php:148 elements/slider-element.php:162
+msgid "Visible on Hover"
+msgstr ""
+
+#: elements/slider-element.php:149 elements/slider-element.php:163
+msgid "Hidden"
+msgstr ""
+
+#: elements/slider-element.php:157
+msgid "Slide Bullets"
+msgstr ""
+
+#: elements/slider-element.php:177 inc/custom-meta.php:197
+#: inc/custom-meta.php:224
+msgid "Slider Settings"
+msgstr ""
+
+#: elements/slider-element.php:297
+msgid "Show Reflection"
+msgstr ""
+
+#: elements/slider-element.php:307
+msgid "Show Play Button"
+msgstr ""
+
+#: elements/slider-element.php:317
+msgid "Show Meta?"
+msgstr ""
+
+#: elements/slider-element.php:327
+msgid "Show Genre"
+msgstr ""
+
+#: elements/slider-element.php:337
+msgid "Show Category"
+msgstr ""
+
+#: elements/slider-element.php:346
+msgid "Show Types"
+msgstr ""
+
+#: elements/slider-element.php:356
+msgid "Show Rating"
+msgstr ""
+
+#: elements/slider-element.php:367
+msgid "Show Release Year"
+msgstr ""
+
+#: elements/slider-element.php:378
+msgid "Show Film Rating"
+msgstr ""
+
+#: elements/slider-element.php:390
+msgid "Show Excerpt"
+msgstr ""
+
+#: elements/slider-element.php:424
+msgid "Text Width"
+msgstr ""
+
+#: elements/slider-element.php:450
+msgid "Container Max Width"
+msgstr ""
+
+#: elements/slider-element.php:477
+msgid "Content Padding"
+msgstr ""
+
+#: elements/slider-element.php:490
+msgid "Vertical Position"
+msgstr ""
+
+#: elements/slider-element.php:496
+msgid "Top"
+msgstr ""
+
+#: elements/slider-element.php:500
+msgid "Middle"
+msgstr ""
+
+#: elements/slider-element.php:504
+msgid "Bottom"
+msgstr ""
+
+#: elements/slider-element.php:523
+msgid "Horizontal Position"
+msgstr ""
+
+#: elements/slider-element.php:558
+msgid "Slide Overlay Color"
+msgstr ""
+
+#: elements/slider-element.php:615
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/slider-element.php:651
+msgid "Post Meta Styles"
+msgstr ""
+
+#: elements/slider-element.php:673
+msgid "Post Meta Color"
+msgstr ""
+
+#: elements/slider-element.php:684
+msgid "Post Meta Border"
+msgstr ""
+
+#: elements/slider-element.php:696
+msgid "Post Meta Padding Right"
+msgstr ""
+
+#: elements/slider-element.php:713
+msgid "Post Meta Margin Bottom"
+msgstr ""
+
+#: elements/slider-element.php:735
+msgid "Excerpt Styles"
+msgstr ""
+
+#: elements/slider-element.php:745
+msgid "Excerpt"
+msgstr ""
+
+#: elements/slider-element.php:766
+msgid "Excerpt Color"
+msgstr ""
+
+#: elements/slider-element.php:777
+msgid "Excerpt Margin Bottom"
+msgstr ""
+
+#: elements/slider-element.php:798
+msgid "Button Styles"
+msgstr ""
+
+#: elements/slider-element.php:808
+msgid "Button Padding"
+msgstr ""
+
+#: elements/slider-element.php:906
+msgid "Button Margin Bottom"
+msgstr ""
+
+#: elements/slider-element.php:930
+msgid "Navigation Styles"
+msgstr ""
+
+#: elements/slider-element.php:939
+msgid "Arrow Color"
+msgstr ""
+
+#: elements/slider-element.php:950
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: elements/slider-element.php:963
+msgid "Bullet Color"
+msgstr ""
+
+#: elements/slider-element.php:974
+msgid "Bullet Selected Color"
+msgstr ""
+
+#: inc/comment-rating.php:17
+msgid "Rating"
+msgstr ""
+
+#: inc/comment-rating.php:60
+msgid "Contains Spoiler?"
+msgstr ""
+
+#: inc/comment-rating.php:137
+msgid "Review Rating"
+msgstr ""
+
+#: inc/comment-rating.php:153
+msgid "Rating: "
+msgstr ""
+
+#: inc/comment-rating.php:166
+msgid "Contains Spoiler: "
+msgstr ""
+
+#: inc/custom-meta.php:21
+msgid "Page Settings"
+msgstr ""
+
+#: inc/custom-meta.php:26
+msgid "General Settings"
+msgstr ""
+
+#: inc/custom-meta.php:30
+msgid "Header Settings"
+msgstr ""
+
+#: inc/custom-meta.php:39
+msgid "Sub-title"
+msgstr ""
+
+#: inc/custom-meta.php:47
+msgid "Sidebar Display"
+msgstr ""
+
+#: inc/custom-meta.php:51
+msgid "Hide Sidebar"
+msgstr ""
+
+#: inc/custom-meta.php:52
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/custom-meta.php:53
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/custom-meta.php:60
+msgid "Page Title Background Image"
+msgstr ""
+
+#: inc/custom-meta.php:69
+msgid "Disable Page Title"
+msgstr ""
+
+#: inc/custom-meta.php:77
+msgid "Disable Footer"
+msgstr ""
+
+#: inc/custom-meta.php:86
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/custom-meta.php:95
+msgid "Custom logo for page"
+msgstr ""
+
+#: inc/custom-meta.php:96
+msgid "Must be same size as the main logo."
+msgstr ""
+
+#: inc/custom-meta.php:106
+msgid "Disable Header"
+msgstr ""
+
+#: inc/custom-meta.php:135
+msgid "Featured Image Link"
+msgstr ""
+
+#: inc/custom-meta.php:139 inc/custom-meta.php:257
+msgid "Default link to post"
+msgstr ""
+
+#: inc/custom-meta.php:140
+msgid "Link to image in lightbox pop-up"
+msgstr ""
+
+#: inc/custom-meta.php:141 inc/custom-meta.php:258
+msgid "Link to URL"
+msgstr ""
+
+#: inc/custom-meta.php:142 inc/custom-meta.php:259
+msgid "Link to URL (New Window)"
+msgstr ""
+
+#: inc/custom-meta.php:149
+msgid "Optional Link"
+msgstr ""
+
+#: inc/custom-meta.php:150
+msgid "Make your post link to another page"
+msgstr ""
+
+#: inc/custom-meta.php:161
+msgid "Video/Audio"
+msgstr ""
+
+#: inc/custom-meta.php:162 inc/custom-meta.php:370 inc/custom-meta.php:771
+#: inc/custom-meta.php:915 inc/custom-meta.php:1058 inc/custom-meta.php:1199
+#: inc/custom-meta.php:1341 inc/custom-meta.php:1522
+msgid "Paste in your video url or embed code"
+msgstr ""
+
+#: inc/custom-meta.php:185 inc/custom-meta.php:212 inc/custom-meta.php:1420
+msgid "Video Options"
+msgstr ""
+
+#: inc/custom-meta.php:189 inc/custom-meta.php:216
+msgid "Default Settings"
+msgstr ""
+
+#: inc/custom-meta.php:193 inc/custom-meta.php:220
+msgid "Meta Settings"
+msgstr ""
+
+#: inc/custom-meta.php:201
+msgid "Seasons/TV Series"
+msgstr ""
+
+#: inc/custom-meta.php:228
+msgid "Season 1 (Deprecated)"
+msgstr ""
+
+#: inc/custom-meta.php:232
+msgid "Season 2 (Deprecated)"
+msgstr ""
+
+#: inc/custom-meta.php:236
+msgid "Season 3 (Deprecated)"
+msgstr ""
+
+#: inc/custom-meta.php:240
+msgid "Season 4 (Deprecated)"
+msgstr ""
+
+#: inc/custom-meta.php:244
+msgid "Season 5 (Deprecated)"
+msgstr ""
+
+#: inc/custom-meta.php:253
+msgid "Index Link"
+msgstr ""
+
+#: inc/custom-meta.php:267
+msgid "Optional Index Link"
+msgstr ""
+
+#: inc/custom-meta.php:268
+msgid "Make your index post link to another page"
+msgstr ""
+
+#: inc/custom-meta.php:281
+msgid "Sidebar Poster"
+msgstr ""
+
+#: inc/custom-meta.php:282
+msgid ""
+"Optional custom sidebar poster image. Default display is the Featured Image"
+msgstr ""
+
+#: inc/custom-meta.php:291
+msgid "Header Background"
+msgstr ""
+
+#: inc/custom-meta.php:301 inc/custom-meta.php:710 inc/custom-meta.php:854
+#: inc/custom-meta.php:997 inc/custom-meta.php:1138 inc/custom-meta.php:1280
+#: inc/custom-meta.php:1461
+msgid "Video Display"
+msgstr ""
+
+#: inc/custom-meta.php:305 inc/custom-meta.php:714 inc/custom-meta.php:858
+#: inc/custom-meta.php:1001 inc/custom-meta.php:1142 inc/custom-meta.php:1284
+#: inc/custom-meta.php:1465
+msgid "Locally Hosted .mp4"
+msgstr ""
+
+#: inc/custom-meta.php:306 inc/custom-meta.php:715 inc/custom-meta.php:859
+#: inc/custom-meta.php:1002 inc/custom-meta.php:1143 inc/custom-meta.php:1285
+#: inc/custom-meta.php:1466 inc/social-icons.php:361
+msgid "Youtube"
+msgstr ""
+
+#: inc/custom-meta.php:307 inc/custom-meta.php:716 inc/custom-meta.php:860
+#: inc/custom-meta.php:1003 inc/custom-meta.php:1144 inc/custom-meta.php:1286
+#: inc/custom-meta.php:1467 inc/social-icons.php:362
+msgid "Vimeo"
+msgstr ""
+
+#: inc/custom-meta.php:308 inc/custom-meta.php:369 inc/custom-meta.php:770
+#: inc/custom-meta.php:914 inc/custom-meta.php:1057 inc/custom-meta.php:1198
+#: inc/custom-meta.php:1340 inc/custom-meta.php:1521
+msgid "Embedded Video/Audio"
+msgstr ""
+
+#: inc/custom-meta.php:316 inc/custom-meta.php:723 inc/custom-meta.php:867
+#: inc/custom-meta.php:1010 inc/custom-meta.php:1151 inc/custom-meta.php:1293
+#: inc/custom-meta.php:1474
+msgid "Hosted Video (.mp4)"
+msgstr ""
+
+#: inc/custom-meta.php:317 inc/custom-meta.php:724 inc/custom-meta.php:868
+#: inc/custom-meta.php:1011 inc/custom-meta.php:1152 inc/custom-meta.php:1294
+#: inc/custom-meta.php:1475
+msgid "Paste in your video url"
+msgstr ""
+
+#: inc/custom-meta.php:329 inc/custom-meta.php:735 inc/custom-meta.php:879
+#: inc/custom-meta.php:1022 inc/custom-meta.php:1163 inc/custom-meta.php:1305
+#: inc/custom-meta.php:1486
+msgid "Hosted Video Poster"
+msgstr ""
+
+#: inc/custom-meta.php:342 inc/custom-meta.php:748 inc/custom-meta.php:892
+#: inc/custom-meta.php:1035 inc/custom-meta.php:1176 inc/custom-meta.php:1318
+#: inc/custom-meta.php:1499
+msgid "Youtube Video (ID)"
+msgstr ""
+
+#: inc/custom-meta.php:343 inc/custom-meta.php:749 inc/custom-meta.php:893
+#: inc/custom-meta.php:1036 inc/custom-meta.php:1177 inc/custom-meta.php:1319
+#: inc/custom-meta.php:1500
+msgid "You can find the id at the end of the URL after ?v="
+msgstr ""
+
+#: inc/custom-meta.php:355 inc/custom-meta.php:759 inc/custom-meta.php:903
+#: inc/custom-meta.php:1046 inc/custom-meta.php:1187 inc/custom-meta.php:1329
+#: inc/custom-meta.php:1510
+msgid "Vimeo Video (ID)"
+msgstr ""
+
+#: inc/custom-meta.php:356 inc/custom-meta.php:760 inc/custom-meta.php:904
+#: inc/custom-meta.php:1047 inc/custom-meta.php:1188 inc/custom-meta.php:1330
+#: inc/custom-meta.php:1511
+msgid "You can find the id at the end of the URL"
+msgstr ""
+
+#: inc/custom-meta.php:384 inc/custom-meta.php:1535
+msgid "Custom Video Ratio"
+msgstr ""
+
+#: inc/custom-meta.php:397 inc/custom-meta.php:1546
+msgid "Video Width"
+msgstr ""
+
+#: inc/custom-meta.php:410 inc/custom-meta.php:1557
+msgid "Video Height"
+msgstr ""
+
+#: inc/custom-meta.php:427
+msgid "Video Rating"
+msgstr ""
+
+#: inc/custom-meta.php:435 inc/custom-meta.php:696 inc/custom-meta.php:840
+#: inc/custom-meta.php:983 inc/custom-meta.php:1124 inc/custom-meta.php:1266
+#: inc/custom-meta.php:1447
+msgid "Release Date"
+msgstr ""
+
+#: inc/custom-meta.php:443 inc/custom-meta.php:702 inc/custom-meta.php:846
+#: inc/custom-meta.php:989 inc/custom-meta.php:1130 inc/custom-meta.php:1272
+#: inc/custom-meta.php:1453
+msgid "Duration"
+msgstr ""
+
+#: inc/custom-meta.php:451
+msgid "Search Duration"
+msgstr ""
+
+#: inc/custom-meta.php:455
+msgid "Short (< 5 minutes)"
+msgstr ""
+
+#: inc/custom-meta.php:456
+msgid "Medium (5-10 minutes)"
+msgstr ""
+
+#: inc/custom-meta.php:457
+msgid "Long (> 10 minutes)"
+msgstr ""
+
+#: inc/custom-meta.php:466
+msgid "Slider Header Image"
+msgstr ""
+
+#: inc/custom-meta.php:475
+msgid "Button Target"
+msgstr ""
+
+#: inc/custom-meta.php:479
+msgid "No Button"
+msgstr ""
+
+#: inc/custom-meta.php:480
+msgid "Page Link"
+msgstr ""
+
+#: inc/custom-meta.php:481
+msgid "Page Link Open in New Window"
+msgstr ""
+
+#: inc/custom-meta.php:482
+msgid "Youtube Lightbox"
+msgstr ""
+
+#: inc/custom-meta.php:483
+msgid "Vimeo Lightbox"
+msgstr ""
+
+#: inc/custom-meta.php:484
+msgid "Locally Hosted Video"
+msgstr ""
+
+#: inc/custom-meta.php:492
+msgid "Button Text"
+msgstr ""
+
+#: inc/custom-meta.php:505
+msgid "Button Icon"
+msgstr ""
+
+#: inc/custom-meta.php:506
+msgid "View list of Icons: https://fontawesome.com/v4.7.0/icons/"
+msgstr ""
+
+#: inc/custom-meta.php:520
+msgid "Button Link/Video"
+msgstr ""
+
+#: inc/custom-meta.php:521
+msgid "If linking to Youtube or Vimeo videos, use video ID"
+msgstr ""
+
+#: inc/custom-meta.php:534
+msgid "Locally Hosted Video Poster"
+msgstr ""
+
+#: inc/custom-meta.php:563
+msgid "Season {#}"
+msgstr ""
+
+#: inc/custom-meta.php:564
+msgid "Add Another Season"
+msgstr ""
+
+#: inc/custom-meta.php:565
+msgid "Remove Season"
+msgstr ""
+
+#: inc/custom-meta.php:580
+msgid "Season Title"
+msgstr ""
+
+#: inc/custom-meta.php:590
+msgid "Season"
+msgstr ""
+
+#: inc/custom-meta.php:640
+msgid "Season 1 Title"
+msgstr ""
+
+#: inc/custom-meta.php:654 inc/custom-meta.php:800 inc/custom-meta.php:943
+#: inc/custom-meta.php:1084 inc/custom-meta.php:1226
+msgid "Episode {#}"
+msgstr ""
+
+#: inc/custom-meta.php:655 inc/custom-meta.php:801 inc/custom-meta.php:944
+#: inc/custom-meta.php:1085 inc/custom-meta.php:1227
+msgid "Add Another Episode"
+msgstr ""
+
+#: inc/custom-meta.php:656 inc/custom-meta.php:802 inc/custom-meta.php:945
+#: inc/custom-meta.php:1086 inc/custom-meta.php:1228
+msgid "Remove Episode"
+msgstr ""
+
+#: inc/custom-meta.php:672 inc/custom-meta.php:816 inc/custom-meta.php:959
+#: inc/custom-meta.php:1100 inc/custom-meta.php:1242
+msgid "Episode Title"
+msgstr ""
+
+#: inc/custom-meta.php:679 inc/custom-meta.php:823 inc/custom-meta.php:966
+#: inc/custom-meta.php:1107 inc/custom-meta.php:1249 inc/custom-meta.php:1426
+msgid "Episode Description"
+msgstr ""
+
+#: inc/custom-meta.php:689 inc/custom-meta.php:833 inc/custom-meta.php:976
+#: inc/custom-meta.php:1117 inc/custom-meta.php:1259 inc/custom-meta.php:1436
+msgid "Episode Thumbnail"
+msgstr ""
+
+#: inc/custom-meta.php:717 inc/custom-meta.php:861 inc/custom-meta.php:1004
+#: inc/custom-meta.php:1145 inc/custom-meta.php:1287 inc/custom-meta.php:1468
+msgid "Embedded Video/Third party"
+msgstr ""
+
+#: inc/custom-meta.php:786
+msgid "Season 2 Title"
+msgstr ""
+
+#: inc/custom-meta.php:929
+msgid "Season 3 Title"
+msgstr ""
+
+#: inc/custom-meta.php:1070
+msgid "Season 4 Title"
+msgstr ""
+
+#: inc/custom-meta.php:1212
+msgid "Season 5 Title"
+msgstr ""
+
+#: inc/custom-meta.php:1376
+msgid "Post Meta"
+msgstr ""
+
+#: inc/custom-meta.php:1382
+msgid "Image Icon/Photo"
+msgstr ""
+
+#: inc/custom-meta.php:1389
+msgid "Background Image"
+msgstr ""
+
+#: inc/social-icons.php:9
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/social-icons.php:22
+msgid "Facebook Icon"
+msgstr ""
+
+#: inc/social-icons.php:35
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/social-icons.php:48
+msgid "Instagram Icon"
+msgstr ""
+
+#: inc/social-icons.php:60
+msgid "Spotify Icon"
+msgstr ""
+
+#: inc/social-icons.php:72
+msgid "Youtube Icon"
+msgstr ""
+
+#: inc/social-icons.php:84
+msgid "Vimeo Icon"
+msgstr ""
+
+#: inc/social-icons.php:97
+msgid "Google + Icon"
+msgstr ""
+
+#: inc/social-icons.php:110
+msgid "Pinterest Icon"
+msgstr ""
+
+#: inc/social-icons.php:122
+msgid "Soundcloud Icon"
+msgstr ""
+
+#: inc/social-icons.php:134
+msgid "LinkedIn Icon"
+msgstr ""
+
+#: inc/social-icons.php:146
+msgid "Snapchat Icon"
+msgstr ""
+
+#: inc/social-icons.php:158
+msgid "Tumblr Icon"
+msgstr ""
+
+#: inc/social-icons.php:170
+msgid "Flickr Icon"
+msgstr ""
+
+#: inc/social-icons.php:183
+msgid "Dribbble Icon"
+msgstr ""
+
+#: inc/social-icons.php:196
+msgid "VK Icon"
+msgstr ""
+
+#: inc/social-icons.php:209
+msgid "WordPress Icon"
+msgstr ""
+
+#: inc/social-icons.php:221
+msgid "Houzz Icon"
+msgstr ""
+
+#: inc/social-icons.php:234
+msgid "Behance Icon"
+msgstr ""
+
+#: inc/social-icons.php:246
+msgid "GitHub Icon"
+msgstr ""
+
+#: inc/social-icons.php:258
+msgid "Last.fm Icon"
+msgstr ""
+
+#: inc/social-icons.php:270
+msgid "Medium Icon"
+msgstr ""
+
+#: inc/social-icons.php:282
+msgid "Trip Advisor Icon"
+msgstr ""
+
+#: inc/social-icons.php:294
+msgid "Twitch Icon"
+msgstr ""
+
+#: inc/social-icons.php:306
+msgid "Yelp Icon"
+msgstr ""
+
+#: inc/social-icons.php:320
+msgid "E-mail Icon"
+msgstr ""
+
+#: inc/social-icons.php:333
+msgid "Heart Icon"
+msgstr ""
+
+#: inc/social-icons.php:357
+msgid "Facebook"
+msgstr ""
+
+#: inc/social-icons.php:358 inc/social-sharing.php:182
+msgid "Twitter"
+msgstr ""
+
+#: inc/social-icons.php:359
+msgid "Instagram"
+msgstr ""
+
+#: inc/social-icons.php:360
+msgid "Spotify"
+msgstr ""
+
+#: inc/social-icons.php:363
+msgid "Google+"
+msgstr ""
+
+#: inc/social-icons.php:364
+msgid "Pinterest"
+msgstr ""
+
+#: inc/social-icons.php:365
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/social-icons.php:366
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/social-icons.php:367
+msgid "Snapchat"
+msgstr ""
+
+#: inc/social-icons.php:368
+msgid "Tumblr"
+msgstr ""
+
+#: inc/social-icons.php:369
+msgid "Flickr"
+msgstr ""
+
+#: inc/social-icons.php:370
+msgid "Dribbble"
+msgstr ""
+
+#: inc/social-icons.php:371
+msgid "VK"
+msgstr ""
+
+#: inc/social-icons.php:372
+msgid "WordPress"
+msgstr ""
+
+#: inc/social-icons.php:374
+msgid "Houzz"
+msgstr ""
+
+#: inc/social-icons.php:375
+msgid "Behance"
+msgstr ""
+
+#: inc/social-icons.php:376
+msgid "Github"
+msgstr ""
+
+#: inc/social-icons.php:377
+msgid "LastFM"
+msgstr ""
+
+#: inc/social-icons.php:378
+msgid "Medium"
+msgstr ""
+
+#: inc/social-icons.php:379
+msgid "Trip Advisor"
+msgstr ""
+
+#: inc/social-icons.php:380
+msgid "Twitch"
+msgstr ""
+
+#: inc/social-icons.php:381
+msgid "Yelp"
+msgstr ""
+
+#: inc/social-icons.php:383
+msgid "Email"
+msgstr ""
+
+#: inc/social-icons.php:385
+msgid "Wishlist"
+msgstr ""
+
+#: inc/social-sharing.php:8
+msgid "Video Post Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:24
+msgid "Twitter Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:39
+msgid "Facebook Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:54
+msgid "Pinterest Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:67
+msgid "VK Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:82
+msgid "Google+ Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:97
+msgid "Reddit Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:111
+msgid "LinkedIn Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:124
+msgid "Tumblr Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:137
+msgid "StumbleUpon Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:151
+msgid "Email Sharing"
+msgstr ""
+
+#: inc/social-sharing.php:182
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/social-sharing.php:185
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/social-sharing.php:189
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/social-sharing.php:192
+msgid "Share on VK"
+msgstr ""
+
+#: inc/social-sharing.php:195
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/social-sharing.php:198
+msgid "Share on Reddit"
+msgstr ""
+
+#: inc/social-sharing.php:201
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/social-sharing.php:204
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/social-sharing.php:207
+msgid "Share on StumbleUpon"
+msgstr ""
+
+#: inc/social-sharing.php:210
+msgid "Share on E-mail"
+msgstr ""
+
+#: inc/social-sharing.php:210
+msgid "Share via Email"
+msgstr ""
+
+#: progression-elements.php:97
+msgid "Videos"
+msgstr ""
+
+#: progression-elements.php:98
+msgid "Video Post"
+msgstr ""
+
+#: progression-elements.php:113
+msgid "Video Types"
+msgstr ""
+
+#: progression-elements.php:123
+msgid "Video Genres"
+msgstr ""
+
+#: progression-elements.php:133
+msgid "Video Categories"
+msgstr ""
+
+#: progression-elements.php:143
+msgid "Cast"
+msgstr ""
+
+#: progression-elements.php:154
+msgid "Director"
+msgstr ""
+
+#: progression-elements.php:165
+msgid "TV Series"
+msgstr ""
+
+#: progression-elements.php:166
+msgid "All Episodes"
+msgstr ""
+
+#: progression-elements.php:167
+msgid "Episode Post"
+msgstr ""
+
+#: progression-elements.php:168
+msgid "Add New Episode"
+msgstr ""
+
+#: progression-elements.php:185
+msgid "Seasons"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Progression Theme Elements - Vayvo"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://progressionstudios.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Theme Elements for Progression Studios Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Progression Studios"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://progressionstudios.com/"
+msgstr ""
